@@ -4,5 +4,4 @@ I'm Sam, aka SLIVAL, a student studying software engineering at uni, and game de
 - 👀 I’m interested in games design and development.
 - 🤔 I know how to code in Java, C# and SQL.
 - 🌱 My current goals are to improve my C++ skills, and to be more adept with Unity.
-- 📫 Contact me on Discord: Slival#4064
-- ⚡ Fun fact: I play Rainbow Six Siege a lot and just started going to the gym.
+- 📫 Contact me on Discord: SLIVAL#4064
